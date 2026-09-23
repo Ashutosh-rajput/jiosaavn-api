@@ -893,7 +893,7 @@ http://localhost:3000
 
 <h2>🚀 Deploy to Vercel</h2>
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ODSkyler/jiosaavn-api)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ashutosh-rajput/jiosaavn-api)
 
 **One-click deployment:** Click the Deploy button above to deploy instantly to Vercel.
 
