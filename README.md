@@ -865,7 +865,7 @@ AAC only.
 <h3>1️⃣ Clone repository</h3>
 
 <pre>
-git clone https://github.com/ODSkyler/jiosaavn-api.git
+git clone https://github.com/Ashutosh-rajput/jiosaavn-api
 cd jiosaavn-api
 </pre>
 
